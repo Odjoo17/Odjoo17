@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Odjoo17
-- 👀 I’m interested in Data Science, Sport, Finance & Physics
+- 👀 I’m interested in Data Science applied in Sport, Health & Physics
 - 🌱 I’m currently learning data science theory at Centrale Lille (French engineering school)
 - 💞️ I’m looking to collaborate on data project, as an analyst or an engineer
 - 📫 How to reach me : on LinkedIn or Git

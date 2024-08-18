@@ -5,8 +5,8 @@
     <img src="Mandaloriangif.gif" width="200"/>
   </p>
   <p align="center">
-    <a href="https://github.com/eust-w/eust-w/blob/main/README.md"><span>English</span></a> |
-    <a href="https://github.com/eust-w/eust-w/blob/main/README_FR.md"><span>Français</span></a>
+    <a href="https://github.com/Odjoo17/Odjoo17/blob/main/README.md"><span>English</span></a> |
+    <a href=""https://github.com/Odjoo17/Odjoo17/blob/main/README_FR.md><span>Français</span></a>
   </p>
   <h4 align="left">
     About me 🤸🏾‍♂️
